@@ -12,15 +12,15 @@ So, let's dive in...
 
 [Full disclosure - this is a long post. Go and make a cup of tea or coffee, and maybe plan to build this over a couple of days :) If you get completely stuck, you can view the finished code [in this GitHub repository](https://github.com/jlopenshaw41/api-tutorial)]
 
-### Create a new folder for the project and set up a GitHub repo
+## Create a new folder for the project and set up a GitHub repo
 
 First things first...
 
 1. Set up a new folder for your API project
 
-[I use the command line to do create new folders - I've put the commands I used after each step]
+    [I use the command line to create new folders - I've put the commands I used after each step in this tutorial]
 
-`mkdir book-library-api`
+    `mkdir book-library-api`
 
 2. Change directory into that folder and start git tracking:
 

@@ -14,13 +14,11 @@ So, let's dive in...
 
 ## Contents
 * [Project setup](#create-a-new-folder-for-the-project-and-set-up-a-GitHub-repo)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
+* [Database & Docker container setup](#set-up-a-new-docker-container-with-a-new-mysql-database)
+* [Express application setup](#set-up-the-express-application)
+* [TDD & test setup](#set-up-the-tests)
+* [Adding database tables](#adding-tables-to-our-database)
+* [Adding CRUD functionality](#adding-functionality-to-our-api-to-create-new-records-in-the-database)
 
 ## Create a new folder for the project and set up a GitHub repo
 

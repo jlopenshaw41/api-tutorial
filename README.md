@@ -12,6 +12,16 @@ So, let's dive in...
 
 [Full disclosure - this is a long post. Go and make a cup of tea or coffee, and maybe plan to build this over a couple of days :) If you get completely stuck, you can view the finished code [in this GitHub repository](https://github.com/jlopenshaw41/api-tutorial)]
 
+## Contents
+* [Project setup](#create-a-new-folder-for-the-project-and-set-up-a-GitHub-repo)
+* [Screenshots](#screenshots)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Features](#features)
+* [Status](#status)
+* [Inspiration](#inspiration)
+* [Contact](#contact)
+
 ## Create a new folder for the project and set up a GitHub repo
 
 First things first...

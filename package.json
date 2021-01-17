@@ -1,0 +1,28 @@
+{
+  "name": "book-library-api-tutorial",
+  "version": "1.0.0",
+  "description": "An API tutorial project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon -r dotenv/config index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlopenshaw41/api-tutorial.git"
+  },
+  "author": "Jennifer Openshaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlopenshaw41/api-tutorial/issues"
+  },
+  "homepage": "https://github.com/jlopenshaw41/api-tutorial#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^6.3.5"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.7"
+  }
+}
